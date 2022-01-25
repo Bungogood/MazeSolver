@@ -1,1 +1,3 @@
-# MazeSolver
+# Python
+
+general repository for python projects

@@ -37,4 +37,5 @@ def solve(s):
     solveprocess(board, 0, sln, s)
     return sln
 
-solve(8)
+for sln in solve(8):
+    print(sln)
